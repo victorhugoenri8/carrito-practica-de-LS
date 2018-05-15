@@ -10,6 +10,7 @@ carrito de compras practicar el LS, manipular el dom
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/skeleton.css">
     <link rel="stylesheet" href="css/custom.css">
+    
 </head></p>
 
 <p><body></p>
@@ -25,7 +26,6 @@ carrito de compras practicar el LS, manipular el dom
     </div>
     </header>
 
- <script src="js/app1.js"></script>
 
 <p></body>
 </html></p>
