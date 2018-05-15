@@ -1,52 +1,16 @@
 # carrito-practica-de-LS
 carrito de compras practicar el LS, manipular el dom
-
-
-<header id="header" class="header">
-
-<div class="container">
-
-<div class="row">
-
-<div class="four columns">![](img/logo.jpg)</div>
-
-<div class="two columns u-pull-right">
-
-*   ![](img/cart.png)
-
-    <div id="carrito">
-
-    Carrito Vacio
-
-    <table id="lista-carrito" class="u-full-width">
-
-    <thead>
-
-    <tr>
-
-    <th>Imagen</th>
-
-    <th>Nombre</th>
-
-    <th>Precio</th>
-
-    <th></th>
-
-    </tr>
-
-    </thead>
-
-    </table>
-
-    [Vaciar Carrito](#)</div>
-
-</div>
-
-</div>
-
-</div>
-
-</header>
+<p><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Carrito</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/skeleton.css">
+    <link rel="stylesheet" href="css/custom.css">
+</head></p>
 
 <div id="hero">
 
