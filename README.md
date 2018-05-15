@@ -35,9 +35,6 @@ carrito de compras practicar el LS, manipular el dom
                       
 
 <pre><code>                &lt;/div&gt;
-        &lt;/div&gt; 
-    &lt;/div&gt;
-&lt;/div&gt;
 </code></pre>
 
 <p></body>
