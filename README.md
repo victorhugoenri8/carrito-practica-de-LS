@@ -20,12 +20,25 @@ carrito de compras practicar el LS, manipular el dom
         <div class="row">
             <div class="four columns">
                 <img src="img/logo.jpg" id="logo">
-            </div>
 
-        </div> 
-    </div>
-    </header>
+<div id="hero">
+        <div class="container">
+            <div class="row">
+                    <div class="six columns">
+                        <div class="contenido-hero">
+                                <h2>Aprende algo nuevo</h2>
+                                <p>Todos los cursos a $15</p>
+                                <form action="#" id="busqueda" method="post" class="formulario clase2 clase3">
+                                    <input class="u-full-width" type="text" placeholder="¿Que te gustaría Aprender?" id="buscador">
+                                    <input type="submit" id="submit-buscador" class="submit-buscador">
+                                </form>
+                      
 
+<pre><code>                &lt;/div&gt;
+        &lt;/div&gt; 
+    &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
 
 <p></body>
 </html></p>
